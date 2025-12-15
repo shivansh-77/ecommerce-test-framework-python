@@ -1,0 +1,20 @@
+# Selenium WebDriver
+selenium==4.15.0
+
+# WebDriver Manager - Auto manages browser drivers
+webdriver-manager==4.0.1
+
+# Pytest - Testing framework
+pytest==7.4.3
+
+# Pytest HTML Reports
+pytest-html==4.1.1
+
+# Pytest ordering (run tests in specific order)
+pytest-order==1.2.0
+
+# Allure Reports (optional, beautiful reports)
+allure-pytest==2.13.2
+
+# Python dotenv for config management
+python-dotenv==1.0.0
